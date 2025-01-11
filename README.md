@@ -9,12 +9,6 @@ CNN(Convolutional Neural Network) 모델을 사용하여 손으로 쓴 0-9까지
 - 실시간 숫자 예측 및 확률 출력
 - 이미지 전처리 및 품질 개선
 
-## 🔧 설치 방법
-필요한 패키지를 설치하기 위해 다음 명령어를 실행하세요:
-``` bash
-pip install tensorflow numpy pillow
-```
-
 ## 📁 프로젝트 구조
 - `MNIST_LOAD.py`: CNN 모델 학습 및 저장
 - `Handwriting prediction.py`: 학습된 모델을 사용한 숫자 예측
